@@ -25,3 +25,7 @@ This is a community where information about all trending hackathos will be given
 
 
 ```**Thank you for your interest! All types of Hackathons are welcome!**```
+
+## Why To Contribute
+
+Cause, This event it's amazing !!
